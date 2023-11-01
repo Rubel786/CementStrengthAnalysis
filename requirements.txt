@@ -1,6 +1,6 @@
 Flask
-Cunicorn
+gunicorn
 Pandas
 Sklearn
 Matplotlib
-
+Python
